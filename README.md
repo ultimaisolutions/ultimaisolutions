@@ -8,7 +8,7 @@ Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small bu
 
 <div align="center">
 
-![AI-Driven Development](./assets/5.png)
+<img src="./assets/5.png" alt="AI-Driven Development" width="500"/>
 
 </div>
 
@@ -18,7 +18,7 @@ Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small bu
 
 <div align="center">
 
-![WhatsApp Business Interface](./assets/1.png)
+<img src="./assets/1.png" alt="WhatsApp Business Interface" width="600"/>
 
 </div>
 
@@ -33,7 +33,7 @@ Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small bu
 
 <div align="center">
 
-![Case Study Results](./assets/4.png)
+<img src="./assets/4.png" alt="Case Study Results - 9,000 NIS delivered in 10 days" width="500"/>
 
 </div>
 
@@ -45,7 +45,11 @@ Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small bu
 <details>
 <summary>📋 <b>See Full Feature List</b></summary>
 
-![Features Delivered](./assets/7.png)
+<div align="center">
+
+<img src="./assets/7.png" alt="Features Delivered Checklist" width="500"/>
+
+</div>
 
 **What was built:**
 - ✅ Custom WhatsApp filters matching client needs
@@ -56,8 +60,13 @@ Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small bu
 
 **Timeline:** 10 days | 45 development hours
 
-![Analytics Dashboard](./assets/2.png)
+<div align="center">
+
+<img src="./assets/2.png" alt="Analytics Dashboard" width="600"/>
+
 *Real-time analytics dashboard showing message performance and engagement metrics*
+
+</div>
 
 </details>
 
@@ -84,7 +93,7 @@ Custom chatbot solutions that actually learn and remember context over time.
 
 <div align="center">
 
-![AI Chatbot Demo](./assets/WhatsApp_Image_2025-05-11_at_17_34_38.jpeg)
+<img src="./assets/WhatsApp_Image_2025-05-11_at_17_34_38.jpeg" alt="AI Chatbot with RAG Demo" width="400"/>
 
 </div>
 
