@@ -93,7 +93,7 @@ Custom chatbot solutions that actually learn and remember context over time.
 
 <div align="center">
 
-<img src="./assets/WhatsApp_Image_2025-05-11_at_17_34_38.jpeg" alt="AI Chatbot with RAG Demo" width="400"/>
+<img src="./assets/WhatsApp Image 2025-05-11 at 17.34.38.jpeg" alt="AI Chatbot with RAG Demo" width="400"/>
 
 </div>
 
