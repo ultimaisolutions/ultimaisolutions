@@ -6,9 +6,21 @@ I build custom software solutions powered by AI - delivering features in days, n
 
 Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small businesses
 
+<div align="center">
+
+![AI-Driven Development](./assets/5.png)
+
+</div>
+
 ---
 
 ## 🚀 Featured Case Study: WhatsApp Business Integration
+
+<div align="center">
+
+![WhatsApp Business Interface](./assets/1.png)
+
+</div>
 
 **Challenge:** Client needed a complete WhatsApp Business interface integrated into their customer support platform for digital course creators.
 
@@ -19,10 +31,35 @@ Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small bu
 - Advanced filtering system
 - **AI-powered response automation**
 
+<div align="center">
+
+![Case Study Results](./assets/4.png)
+
+</div>
+
 **Results:**
 - ⚡ Delivered in **10 days** (vs. 1+ month typical timeline)
 - 💰 **~9,000 NIS** in value delivered at **1/3 the market price**
 - 🤖 AI automation reduced manual response time by over 60%
+
+<details>
+<summary>📋 <b>See Full Feature List</b></summary>
+
+![Features Delivered](./assets/7.png)
+
+**What was built:**
+- ✅ Custom WhatsApp filters matching client needs
+- ✅ AI analysis for intelligent message routing
+- ✅ Recommended AI responses for common queries
+- ✅ Technical infrastructure for analytics
+- ✅ Analytics dashboard and reporting
+
+**Timeline:** 10 days | 45 development hours
+
+![Analytics Dashboard](./assets/2.png)
+*Real-time analytics dashboard showing message performance and engagement metrics*
+
+</details>
 
 Built on Lovable (no-code) with custom integrations, demonstrating my hybrid approach: leverage rapid development tools where possible, write custom code where needed.
 
@@ -44,6 +81,13 @@ Community-driven grocery price comparison platform with intelligent receipt scan
 
 ### 🤖 AI Chatbots with Memory
 Custom chatbot solutions that actually learn and remember context over time.
+
+<div align="center">
+
+![AI Chatbot Demo](./assets/WhatsApp_Image_2025-05-11_at_17_34_38.jpeg)
+
+</div>
+
 - **Tech Stack:** RAG (Retrieval-Augmented Generation), vector databases, fine-tuned language models
 - **Capability:** Long-term conversation memory, domain-specific knowledge injection
 - **Use Case:** Customer support, knowledge base automation, personalized user interactions
