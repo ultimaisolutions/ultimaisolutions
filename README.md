@@ -6,21 +6,11 @@ I build custom software solutions powered by AI - delivering features in days, n
 
 Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small businesses
 
-<div align="center">
-
-<img src="./assets/5.png" alt="AI-Driven Development" width="500"/>
-
-</div>
 
 ---
 
 ## 🚀 Featured Case Study: WhatsApp Business Integration
 
-<div align="center">
-
-<img src="./assets/1.png" alt="WhatsApp Business Interface" width="600"/>
-
-</div>
 
 **Challenge:** Client needed a complete WhatsApp Business interface integrated into their customer support platform for digital course creators.
 
@@ -31,11 +21,6 @@ Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small bu
 - Advanced filtering system
 - **AI-powered response automation**
 
-<div align="center">
-
-<img src="./assets/4.png" alt="Case Study Results - 9,000 NIS delivered in 10 days" width="500"/>
-
-</div>
 
 **Results:**
 - ⚡ Delivered in **10 days** (vs. 1+ month typical timeline)
@@ -45,11 +30,6 @@ Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small bu
 <details>
 <summary>📋 <b>See Full Feature List</b></summary>
 
-<div align="center">
-
-<img src="./assets/7.png" alt="Features Delivered Checklist" width="500"/>
-
-</div>
 
 **What was built:**
 - ✅ Custom WhatsApp filters matching client needs
@@ -59,16 +39,6 @@ Based in Beer Sheva, Israel | Building for startups, entrepreneurs, and small bu
 - ✅ Analytics dashboard and reporting
 
 **Timeline:** 10 days | 45 development hours
-
-<div align="center">
-
-<img src="./assets/2.png" alt="Analytics Dashboard" width="600"/>
-
-*Real-time analytics dashboard showing message performance and engagement metrics*
-
-</div>
-
-</details>
 
 Built on Lovable (no-code) with custom integrations, demonstrating my hybrid approach: leverage rapid development tools where possible, write custom code where needed.
 
@@ -91,11 +61,6 @@ Community-driven grocery price comparison platform with intelligent receipt scan
 ### 🤖 AI Chatbots with Memory
 Custom chatbot solutions that actually learn and remember context over time.
 
-<div align="center">
-
-<img src="./assets/WhatsApp Image 2025-05-11 at 17.34.38.jpeg" alt="AI Chatbot with RAG Demo" width="400"/>
-
-</div>
 
 - **Tech Stack:** RAG (Retrieval-Augmented Generation), vector databases, fine-tuned language models
 - **Capability:** Long-term conversation memory, domain-specific knowledge injection
