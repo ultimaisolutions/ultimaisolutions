@@ -1,6 +1,6 @@
 # Hi, I'm Ofek Loya.
 
-## I build stuff and hope to make money from it.
+## I have a constant itch to build stuff.
 
 Most of my repositories are private for a good reason.
 
