@@ -6,6 +6,10 @@ Most of my repositories are private for a good reason.
 
 ## Currently running projects:
 
-- [ ] Galila Foundation - Building a fullstack business management application for the Galila Foundation.
+- [v] Galila Foundation - Maintaining Galila's project development application that I developed for them. 
 
-- [ ] Voice Agents - Aiming to build the first Israeli no-code voice agents platform, built on top of livekit's architecture and assets from forked Dograh and pipecat.
+- [ ] Voice Agents - Building [enterprise-grade voice agents](https://voice.ultimaisolutoins.com) for businesses, organizations and companies in Israel
+
+- [ ] Quiz Stations - Actively helping in creating [Quiz Station](https://quizstations.com) as a freelance software developer and technical consultant, we're aiming to bring the popular european idea of quiz rooms to israel. Opening November 2026!
+
+- [ ] Learning Platform - Lead software developer and technical consultant at a [learning platform](https://smart-learning-kids.lovable.app) startup  
