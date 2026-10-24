@@ -6,7 +6,7 @@ Most of my repositories are private for a good reason.
 
 ## Currently running projects:
 
-- [v] Galila Foundation - Maintaining Galila's project development application that I developed for them. 
+- [ ] Galila Foundation - Maintaining Galila's project development application that I developed for them. 
 
 - [ ] Voice Agents - Building [enterprise-grade voice agents](https://voice.ultimaisolutoins.com) for businesses, organizations and companies in Israel
 
